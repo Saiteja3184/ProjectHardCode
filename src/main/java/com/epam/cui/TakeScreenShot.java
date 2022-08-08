@@ -19,5 +19,4 @@ public class TakeScreenShot {
         FileUtils.copyFile(sourceFile,destinationFile);
     }
 
-
 }
